@@ -1,2 +1,5 @@
 class ApplicationController < ActionController::Base
 end
+
+client_id=ANVAXKI1S5WGIJYA0L6J
+client_secret=vAkLhlWvSpCLlKbqpuZcQububhnzVSGclKU8RcVE
